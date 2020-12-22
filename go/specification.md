@@ -3,3 +3,8 @@
 > 前言
     
        Go语言比较常见并且使用广泛的代码规范就是官方提供的 Go Code Review Comments，无论你是短期还是长期使用Go语言编程，都应该至少完整地阅读一遍这个官方的代码规范指南，它既是我们在写代码时应该遵守的规则，也是在代码审查时需要注意的规范。
+
+---
+> 规范
+
+- [Uber开源的编码规范](https://github.com/Hex-Techs/specifications/tree/main/go/uber.md)
